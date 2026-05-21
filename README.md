@@ -1,2 +1,7 @@
-# demo-cepeco-constructora-s-a
-Demo web para Cepeco Constructora S A — diseñada por eterlab.
+# Cepeco Constructora S A
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
